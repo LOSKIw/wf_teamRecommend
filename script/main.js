@@ -1,3 +1,28 @@
+function storageAvailable(type) {
+    var storage;
+    try {
+        storage = window[type];
+        var x = '__storage_test__';
+        storage.setItem(x, x);
+        storage.removeItem(x);
+        return true;
+    }
+    catch(e) {
+        return e instanceof DOMException && (
+            // everything except Firefox
+            e.code === 22 ||
+            // Firefox
+            e.code === 1014 ||
+            // test name field too, because code might not be present
+            // everything except Firefox
+            e.name === 'QuotaExceededError' ||
+            // Firefox
+            e.name === 'NS_ERROR_DOM_QUOTA_REACHED') &&
+            // acknowledge QuotaExceededError only if there's something already stored
+            (storage && storage.length !== 0);
+    }
+}
+
 window.onload = function(){
     let url = "Data/characters.json"/*json文件url，本地的就写本地的位置，如果是服务器的就写服务器的路径*/
     let request = new XMLHttpRequest();
@@ -9,6 +34,7 @@ window.onload = function(){
         "风":[],
         "雷":[]
     }
+
     request.open("get", url);
     request.send(null);
     request.onload = function () {
@@ -34,6 +60,15 @@ window.onload = function(){
                 inText += "</tr></table>";
             }
             document.getElementById("characters").innerHTML = inText;
+        }
+        if(storageAvailable('localStorage')) {
+            if(localStorage.getItem('characters')){
+                let localList = localStorage.getItem('characters').split(",");
+                for(let i in localList){
+                    let bt = document.getElementById(localList[i]);
+                    bt.checked = true;
+                }
+            }
         }
     }
 }
@@ -71,6 +106,9 @@ function submit(){
         if(bList[i].checked){
             userList.push(bList[i].id)
         }
+    }
+    if(storageAvailable('localStorage')) {
+        localStorage.setItem('characters', userList);
     }
     let url = "Data/teamList.json";
     let request = new XMLHttpRequest();
@@ -138,3 +176,5 @@ function submit(){
         document.getElementById("teamSelect").innerHTML = inText;
     }
 }
+
+
