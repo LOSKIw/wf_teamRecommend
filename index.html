@@ -5,7 +5,7 @@
 <body>
     <div class="selectBox" id="targetStage">
         副本:
-        <select>
+        <select id="stage">
             <option>火属</option>
             <option>水属</option>
             <option>风属</option>
@@ -15,10 +15,17 @@
             <option>跨属</option>
             <option>全部</option>
          </select>
+         <button type="button" id="submit" onclick=chooseAll()>全选</button>
+         <button type="button" id="submit" onclick=rejectAll()>全X</button>
          <button type="button" id="submit" onclick=submit()>查找</button>
     </div>
     <br>
     <div class="selectBox" id="characters">
-    empty
-    </body>div>
+        empty
+    </div>
+    <p>
+        白色全齐，黄色差1，绿色差2
+    </p>
+    <div class="teamTable" id="teamSelect">
+    </div>
 </body>

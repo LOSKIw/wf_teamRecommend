@@ -13,7 +13,8 @@
         "equipment22": "情人节书",
         "equipment31": "死皇之书",
         "equipment32": "陈旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=29717477"
+        "detail": "https://bbs.nga.cn/read.php?tid=29717477",
+        "stage": "跨属"
     },
     {
         "副本": "超风踢罐",
@@ -29,7 +30,8 @@
         "equipment22": "情人节书",
         "equipment31": "死皇之书",
         "equipment32": "陈旧法杖",
-        "detail": "需要麻痹手，蘑菇位用火龙伤害更高"
+        "detail": "需要麻痹手，蘑菇位用火龙伤害更高",
+        "stage": "跨属"
     },
     {
         "副本": "超风踢罐",
@@ -45,7 +47,8 @@
         "equipment22": "死皇之书",
         "equipment31": "无名弓",
         "equipment32": "方天画戟",
-        "detail": "需要工具人，见https://www.bilibili.com/video/BV1hr4y1r7Nk"
+        "detail": "需要工具人，见https://www.bilibili.com/video/BV1hr4y1r7Nk",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -61,7 +64,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "陈旧法杖",
-        "detail": ""
+        "detail": "",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -77,7 +81,8 @@
         "equipment22": "水深层枪",
         "equipment31": "灼炎龙杖",
         "equipment32": "40充",
-        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=20816919"
+        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=20816919",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -93,7 +98,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "陈旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30273726"
+        "detail": "https://bbs.nga.cn/read.php?tid=30273726",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -109,7 +115,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "40充",
         "equipment32": "陈旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30273726"
+        "detail": "https://bbs.nga.cn/read.php?tid=30273726",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -125,7 +132,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "40充",
         "equipment32": "陈旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30273726"
+        "detail": "https://bbs.nga.cn/read.php?tid=30273726",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -141,7 +149,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "陈旧法杖",
-        "detail": "https://m.gamer.com.tw/forum/C.php?bsn=37689&snA=7556"
+        "detail": "https://m.gamer.com.tw/forum/C.php?bsn=37689&snA=7556",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -157,7 +166,8 @@
         "equipment22": "水深层枪",
         "equipment31": "40充",
         "equipment32": "水深层枪",
-        "detail": "需要工具人，https://www.bilibili.com/video/BV1rQ4y1r7cn"
+        "detail": "需要工具人，https://www.bilibili.com/video/BV1rQ4y1r7cn",
+        "stage": "跨属"
     },
     {
         "副本": "超火踢罐",
@@ -173,7 +183,8 @@
         "equipment22": "水深层枪",
         "equipment31": "40充",
         "equipment32": "水深层枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=30846584&page=2"
+        "detail": "https://bbs.nga.cn/read.php?tid=30846584&page=2",
+        "stage": "跨属"
     },
     {
         "副本": "超水踢罐",
@@ -189,7 +200,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "超风书",
         "equipment32": "-",
-        "detail": "需要工具人，https://www.bilibili.com/video/BV1xR4y1V7si"
+        "detail": "需要工具人，https://www.bilibili.com/video/BV1xR4y1V7si",
+        "stage": "跨属"
     },
     {
         "副本": "超水踢罐",
@@ -205,7 +217,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "40充",
         "equipment32": "-",
-        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31096666"
+        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31096666",
+        "stage": "跨属"
     },
     {
         "副本": "超水踢罐",
@@ -221,7 +234,8 @@
         "equipment22": "雷锤",
         "equipment31": "-",
         "equipment32": "-",
-        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31087101"
+        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31087101",
+        "stage": "跨属"
     },
     {
         "副本": "超水踢罐",
@@ -237,7 +251,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷书",
         "equipment32": "20+充",
-        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31045671"
+        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31045671",
+        "stage": "跨属"
     },
     {
         "副本": "超水踢罐",
@@ -253,7 +268,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷书",
         "equipment32": "-",
-        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31045671"
+        "detail": "需要工具人，https://bbs.nga.cn/read.php?tid=31045671",
+        "stage": "跨属"
     },
     {
         "副本": "超水踢罐",
@@ -269,7 +285,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷书",
         "equipment32": "40充",
-        "detail": "需要工具人和搭配盘，https://bbs.nga.cn/read.php?tid=31045671"
+        "detail": "需要工具人和搭配盘，https://bbs.nga.cn/read.php?tid=31045671",
+        "stage": "跨属"
     },
     {
         "副本": "超水蜜蜂罐工具人",
@@ -285,7 +302,8 @@
         "equipment22": "-",
         "equipment31": "-",
         "equipment32": "凑足80充即可",
-        "detail": "https://bbs.nga.cn/read.php?tid=31095249"
+        "detail": "https://bbs.nga.cn/read.php?tid=31095249",
+        "stage": "跨属"
     },
     {
         "副本": "超水蜜蜂罐工具人",
@@ -301,7 +319,8 @@
         "equipment22": "-",
         "equipment31": "-",
         "equipment32": "凑足80充即可",
-        "detail": "https://bbs.nga.cn/read.php?tid=31095249"
+        "detail": "https://bbs.nga.cn/read.php?tid=31095249",
+        "stage": "跨属"
     },
     {
         "副本": "超水蜜蜂罐工具人",
@@ -317,7 +336,8 @@
         "equipment22": "-",
         "equipment31": "-",
         "equipment32": "-",
-        "detail": "https://bbs.nga.cn/read.php?tid=31100605"
+        "detail": "https://bbs.nga.cn/read.php?tid=31100605",
+        "stage": "跨属"
     },
     {
         "副本": "踢罐",
@@ -333,7 +353,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "冥王锡杖",
         "equipment32": "陈旧法杖",
-        "detail": ""
+        "detail": "",
+        "stage": "跨属"
     },
     {
         "副本": "踢罐",
@@ -349,7 +370,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "冥王锡杖",
         "equipment32": "陈旧法杖",
-        "detail": ""
+        "detail": "",
+        "stage": "跨属"
     },
     {
         "副本": "踢罐",
@@ -365,7 +387,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "陈旧法杖",
-        "detail": ""
+        "detail": "",
+        "stage": "跨属"
     },
     {
         "副本": "超风、深层",
@@ -381,7 +404,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=30377649"
+        "detail": "https://bbs.nga.cn/read.php?tid=30377649",
+        "stage": "火属"
     },
     {
         "副本": "-",
@@ -397,7 +421,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=29869854"
+        "detail": "https://bbs.nga.cn/read.php?tid=29869854",
+        "stage": "火属"
     },
     {
         "副本": "-",
@@ -413,7 +438,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=29869854"
+        "detail": "https://bbs.nga.cn/read.php?tid=29869854",
+        "stage": "火属"
     },
     {
         "副本": "-",
@@ -429,7 +455,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=29728178"
+        "detail": "https://bbs.nga.cn/read.php?tid=29728178",
+        "stage": "火属"
     },
     {
         "副本": "-",
@@ -445,7 +472,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=29728178"
+        "detail": "https://bbs.nga.cn/read.php?tid=29728178",
+        "stage": "火属"
     },
     {
         "副本": "深层",
@@ -461,7 +489,8 @@
         "equipment22": "灼炎龙杖",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=30391301"
+        "detail": "https://bbs.nga.cn/read.php?tid=30391301",
+        "stage": "火属"
     },
     {
         "副本": "深层",
@@ -477,7 +506,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=30493355"
+        "detail": "https://bbs.nga.cn/read.php?tid=30493355",
+        "stage": "火属"
     },
     {
         "副本": "超风",
@@ -493,7 +523,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=30828638"
+        "detail": "https://bbs.nga.cn/read.php?tid=30828638",
+        "stage": "火属"
     },
     {
         "副本": "深层、超风",
@@ -509,7 +540,8 @@
         "equipment22": "火深层剑",
         "equipment31": "火深层剑",
         "equipment32": "火深层剑",
-        "detail": "https://bbs.nga.cn/read.php?tid=30828638"
+        "detail": "https://bbs.nga.cn/read.php?tid=30828638",
+        "stage": "火属"
     },
     {
         "副本": "超火",
@@ -525,7 +557,8 @@
         "equipment22": "40充",
         "equipment31": "水深层枪",
         "equipment32": "老旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=29397223"
+        "detail": "https://bbs.nga.cn/read.php?tid=29397223",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -541,7 +574,8 @@
         "equipment22": "40充",
         "equipment31": "水深层枪",
         "equipment32": "老旧法杖",
-        "detail": ""
+        "detail": "",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -557,7 +591,8 @@
         "equipment22": "40充",
         "equipment31": "水深层枪",
         "equipment32": "潮汐之杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=29629822"
+        "detail": "https://bbs.nga.cn/read.php?tid=29629822",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -573,7 +608,8 @@
         "equipment22": "潮汐之杖",
         "equipment31": "水深层枪",
         "equipment32": "水深层枪",
-        "detail": ""
+        "detail": "",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -589,7 +625,8 @@
         "equipment22": "潮汐之杖",
         "equipment31": "水深层枪",
         "equipment32": "水深层枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=29397223"
+        "detail": "https://bbs.nga.cn/read.php?tid=29397223",
+        "stage": "水属"
     },
     {
         "副本": "超火、深层",
@@ -605,7 +642,8 @@
         "equipment22": "潮汐之杖",
         "equipment31": "水深层枪",
         "equipment32": "水深层枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=29678846"
+        "detail": "https://bbs.nga.cn/read.php?tid=29678846",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -621,7 +659,8 @@
         "equipment22": "水深层枪",
         "equipment31": "技伤杖",
         "equipment32": "老旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30068252"
+        "detail": "https://bbs.nga.cn/read.php?tid=30068252",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -637,7 +676,8 @@
         "equipment22": "海王之枪",
         "equipment31": "海王之枪",
         "equipment32": "海王之枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=30574071"
+        "detail": "https://bbs.nga.cn/read.php?tid=30574071",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -653,7 +693,8 @@
         "equipment22": "海王之枪",
         "equipment31": "海王之枪",
         "equipment32": "海王之枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=30574071"
+        "detail": "https://bbs.nga.cn/read.php?tid=30574071",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -669,7 +710,8 @@
         "equipment22": "40充",
         "equipment31": "海王之枪",
         "equipment32": "老旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30574071"
+        "detail": "https://bbs.nga.cn/read.php?tid=30574071",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -685,7 +727,8 @@
         "equipment22": "海王之枪",
         "equipment31": "海王之枪",
         "equipment32": "海王之枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=30574071"
+        "detail": "https://bbs.nga.cn/read.php?tid=30574071",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -701,7 +744,8 @@
         "equipment22": "40充",
         "equipment31": "海王之枪",
         "equipment32": "老旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30574071"
+        "detail": "https://bbs.nga.cn/read.php?tid=30574071",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -717,7 +761,8 @@
         "equipment22": "海王之枪",
         "equipment31": "海王之枪",
         "equipment32": "海王之枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=20626758"
+        "detail": "https://bbs.nga.cn/read.php?tid=20626758",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -733,7 +778,8 @@
         "equipment22": "40充",
         "equipment31": "潮汐之杖",
         "equipment32": "水深层枪",
-        "detail": "https://bbs.nga.cn/read.php?tid=30648612"
+        "detail": "https://bbs.nga.cn/read.php?tid=30648612",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -749,7 +795,8 @@
         "equipment22": "技伤镐",
         "equipment31": "世界树的晨露",
         "equipment32": "世界树的晨露",
-        "detail": "https://www.bilibili.com/video/BV1Fr4y167Qm"
+        "detail": "https://www.bilibili.com/video/BV1Fr4y167Qm",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -765,7 +812,8 @@
         "equipment22": "40充",
         "equipment31": "水深层枪",
         "equipment32": "无名之弓",
-        "detail": "https://bbs.nga.cn/read.php?tid=31056956"
+        "detail": "https://bbs.nga.cn/read.php?tid=31056956",
+        "stage": "水属"
     },
     {
         "副本": "超火",
@@ -781,7 +829,8 @@
         "equipment22": "40充",
         "equipment31": "海王之枪",
         "equipment32": "无名之弓",
-        "detail": "https://bbs.nga.cn/read.php?tid=31056956"
+        "detail": "https://bbs.nga.cn/read.php?tid=31056956",
+        "stage": "水属"
     },
     {
         "副本": "深层",
@@ -797,7 +846,8 @@
         "equipment22": "冥王锡杖",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=29982894"
+        "detail": "https://bbs.nga.cn/read.php?tid=29982894",
+        "stage": "风属"
     },
     {
         "副本": "大蛇",
@@ -813,7 +863,9 @@
         "equipment22": "死皇之书",
         "equipment31": "风深层弓",
         "equipment32": "无名弓",
-        "detail": "https://bbs.nga.cn/read.php?tid=30003207"
+        "detail": "https://bbs.nga.cn/read.php?tid=30003207",
+        "stage": "风属"
+        
     },
     {
         "副本": "深层、素材",
@@ -829,7 +881,8 @@
         "equipment22": "死皇之书",
         "equipment31": "风深层弓",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30088315"
+        "detail": "https://bbs.nga.cn/read.php?tid=30088315",
+        "stage": "风属"
     },
     {
         "副本": "大蛇、素材",
@@ -845,7 +898,8 @@
         "equipment22": "死皇之书",
         "equipment31": "风深层弓",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30088315"
+        "detail": "https://bbs.nga.cn/read.php?tid=30088315",
+        "stage": "风属"
     },
     {
         "副本": "深层",
@@ -861,7 +915,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30114402"
+        "detail": "https://bbs.nga.cn/read.php?tid=30114402",
+        "stage": "风属"
     },
     {
         "副本": "素材",
@@ -877,7 +932,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "冥王锡杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30180500"
+        "detail": "https://bbs.nga.cn/read.php?tid=30180500",
+        "stage": "风属"
     },
     {
         "副本": "大蛇",
@@ -893,7 +949,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "冥王锡杖",
         "equipment32": "冥王锡杖",
-        "detail": ""
+        "detail": "",
+        "stage": "风属"
     },
     {
         "副本": "超雷踢罐",
@@ -909,7 +966,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30669862"
+        "detail": "https://bbs.nga.cn/read.php?tid=30669862",
+        "stage": "风属"
     },
     {
         "副本": "超雷踢罐",
@@ -925,7 +983,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "40充",
-        "detail": "https://bbs.nga.cn/read.php?tid=30669862&page=5#pid590564479Anchor"
+        "detail": "https://bbs.nga.cn/read.php?tid=30669862&page=5#pid590564479Anchor",
+        "stage": "风属"
     },
     {
         "副本": "超雷",
@@ -941,7 +1000,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30669862"
+        "detail": "https://bbs.nga.cn/read.php?tid=30669862",
+        "stage": "风属"
     },
     {
         "副本": "超雷",
@@ -957,7 +1017,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "方天画戟",
-        "detail": "https://bbs.nga.cn/read.php?tid=30669862"
+        "detail": "https://bbs.nga.cn/read.php?tid=30669862",
+        "stage": "风属"
     },
     {
         "副本": "超雷踢罐",
@@ -973,7 +1034,8 @@
         "equipment22": "方天画戟",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "需要工具人，见https://www.bilibili.com/video/BV1Kq4y1b7ut"
+        "detail": "需要工具人，见https://www.bilibili.com/video/BV1Kq4y1b7ut",
+        "stage": "风属"
     },
     {
         "副本": "超雷踢罐",
@@ -989,7 +1051,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "方天画戟",
-        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=30842736"
+        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=30842736",
+        "stage": "风属"
     },
     {
         "副本": "超雷踢罐",
@@ -1005,7 +1068,8 @@
         "equipment22": "水滴吊坠",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=30849408"
+        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=30849408",
+        "stage": "风属"
     },
     {
         "副本": "超雷踢罐",
@@ -1021,7 +1085,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "方天画戟",
-        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=30849408"
+        "detail": "需要工具人，见https://bbs.nga.cn/read.php?tid=30849408",
+        "stage": "风属"
     },
     {
         "副本": "素材、深层、大蛇、超雷、高级踢罐",
@@ -1037,7 +1102,8 @@
         "equipment22": "死皇之书",
         "equipment31": "死皇之书",
         "equipment32": "死皇之书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30957920"
+        "detail": "https://bbs.nga.cn/read.php?tid=30957920",
+        "stage": "风属"
     },
     {
         "副本": "深层、大蛇",
@@ -1053,7 +1119,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷书",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30317864"
+        "detail": "https://bbs.nga.cn/read.php?tid=30317864",
+        "stage": "雷属"
     },
     {
         "副本": "深层、大蛇",
@@ -1069,7 +1136,8 @@
         "equipment22": "雷锤",
         "equipment31": "-",
         "equipment32": "-",
-        "detail": ""
+        "detail": "",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1085,7 +1153,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷锤",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30287830"
+        "detail": "https://bbs.nga.cn/read.php?tid=30287830",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1101,7 +1170,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷锤",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30287830"
+        "detail": "https://bbs.nga.cn/read.php?tid=30287830",
+        "stage": "雷属"
     },
     {
         "副本": "深层",
@@ -1117,7 +1187,8 @@
         "equipment22": "40充",
         "equipment31": "雷书",
         "equipment32": "机械芯片",
-        "detail": "https://bbs.nga.cn/read.php?tid=30620683"
+        "detail": "https://bbs.nga.cn/read.php?tid=30620683",
+        "stage": "雷属"
     },
     {
         "副本": "深层",
@@ -1133,7 +1204,8 @@
         "equipment22": "驱动芯片",
         "equipment31": "40充",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30625953"
+        "detail": "https://bbs.nga.cn/read.php?tid=30625953",
+        "stage": "雷属"
     },
     {
         "副本": "深层",
@@ -1149,7 +1221,8 @@
         "equipment22": "雷锤",
         "equipment31": "陈旧法杖",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=29738957"
+        "detail": "https://bbs.nga.cn/read.php?tid=29738957",
+        "stage": "雷属"
     },
     {
         "副本": "水深层",
@@ -1165,7 +1238,8 @@
         "equipment22": "父祖战棍",
         "equipment31": "40充",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30805536"
+        "detail": "https://bbs.nga.cn/read.php?tid=30805536",
+        "stage": "雷属"
     },
     {
         "副本": "水深层",
@@ -1181,7 +1255,8 @@
         "equipment22": "父祖战棍",
         "equipment31": "40充",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30805536"
+        "detail": "https://bbs.nga.cn/read.php?tid=30805536",
+        "stage": "雷属"
     },
     {
         "副本": "深层",
@@ -1197,7 +1272,8 @@
         "equipment22": "40充",
         "equipment31": "雷书",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30858684"
+        "detail": "https://bbs.nga.cn/read.php?tid=30858684",
+        "stage": "雷属"
     },
     {
         "副本": "水深层",
@@ -1213,7 +1289,8 @@
         "equipment22": "父祖王锡",
         "equipment31": "40充",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=30929203"
+        "detail": "https://bbs.nga.cn/read.php?tid=30929203",
+        "stage": "雷属"
     },
     {
         "副本": "超水踢罐",
@@ -1229,7 +1306,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷书",
         "equipment32": "40充",
-        "detail": "需工具人，https://www.bilibili.com/video/BV1xR4y1V7si"
+        "detail": "需工具人，https://www.bilibili.com/video/BV1xR4y1V7si",
+        "stage": "雷属"
     },
     {
         "副本": "超水踢罐",
@@ -1245,7 +1323,8 @@
         "equipment22": "雷锤",
         "equipment31": "雷书",
         "equipment32": "40充",
-        "detail": "需工具人，https://www.bilibili.com/video/BV1xR4y1V7si"
+        "detail": "需工具人，https://www.bilibili.com/video/BV1xR4y1V7si",
+        "stage": "雷属"
     },
     {
         "副本": "超水踢罐",
@@ -1261,7 +1340,8 @@
         "equipment22": "雷锤，雷书未满破则雷书",
         "equipment31": "雷书未满破则雷书",
         "equipment32": "40充",
-        "detail": "需工具人，https://www.bilibili.com/video/BV1hF411s7KR"
+        "detail": "需工具人，https://www.bilibili.com/video/BV1hF411s7KR",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1277,7 +1357,8 @@
         "equipment22": "40充",
         "equipment31": "雷书",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=21770230"
+        "detail": "https://bbs.nga.cn/read.php?tid=21770230",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1293,7 +1374,8 @@
         "equipment22": "40充",
         "equipment31": "雷书",
         "equipment32": "雷书",
-        "detail": ""
+        "detail": "",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1309,7 +1391,8 @@
         "equipment22": "40充",
         "equipment31": "雷书",
         "equipment32": "雷书",
-        "detail": "https://bbs.nga.cn/read.php?tid=21770230"
+        "detail": "https://bbs.nga.cn/read.php?tid=21770230",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1325,7 +1408,8 @@
         "equipment22": "40充",
         "equipment31": "父祖战棍",
         "equipment32": "父祖战棍",
-        "detail": "https://bbs.nga.cn/read.php?tid=21770667"
+        "detail": "https://bbs.nga.cn/read.php?tid=21770667",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1341,7 +1425,8 @@
         "equipment22": "40充",
         "equipment31": "父祖战棍",
         "equipment32": "父祖战棍",
-        "detail": "https://bbs.nga.cn/read.php?tid=21770667"
+        "detail": "https://bbs.nga.cn/read.php?tid=21770667",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1357,7 +1442,8 @@
         "equipment22": "雷锤",
         "equipment31": "父祖战棍",
         "equipment32": "父祖战棍",
-        "detail": "https://bbs.nga.cn/read.php?tid=31106575"
+        "detail": "https://bbs.nga.cn/read.php?tid=31106575",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1373,7 +1459,8 @@
         "equipment22": "雷锤",
         "equipment31": "父祖战棍",
         "equipment32": "父祖战棍",
-        "detail": "https://bbs.nga.cn/read.php?tid=21899251"
+        "detail": "https://bbs.nga.cn/read.php?tid=21899251",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1389,7 +1476,8 @@
         "equipment22": "雷锤",
         "equipment31": "父祖战棍",
         "equipment32": "父祖战棍",
-        "detail": "https://bbs.nga.cn/read.php?tid=31045671"
+        "detail": "https://bbs.nga.cn/read.php?tid=31045671",
+        "stage": "雷属"
     },
     {
         "副本": "超水",
@@ -1405,7 +1493,8 @@
         "equipment22": "雷锤",
         "equipment31": "灼炎龙杖",
         "equipment32": "无名之弓",
-        "detail": "https://bbs.nga.cn/read.php?tid=31099058"
+        "detail": "https://bbs.nga.cn/read.php?tid=31099058",
+        "stage": "雷属"
     },
     {
         "副本": "超暗",
@@ -1421,7 +1510,8 @@
         "equipment22": "40充",
         "equipment31": "40充",
         "equipment32": "老旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30427042"
+        "detail": "https://bbs.nga.cn/read.php?tid=30427042",
+        "stage": "光属"
     },
     {
         "副本": "超暗",
@@ -1437,7 +1527,8 @@
         "equipment22": "阻碍者",
         "equipment31": "陈旧法杖",
         "equipment32": "阻碍者",
-        "detail": "https://bbs.nga.cn/read.php?tid=30427042"
+        "detail": "https://bbs.nga.cn/read.php?tid=30427042",
+        "stage": "光属"
     },
     {
         "副本": "超暗",
@@ -1453,7 +1544,8 @@
         "equipment22": "阻碍者",
         "equipment31": "风深层弓",
         "equipment32": "阻碍者",
-        "detail": "https://bbs.nga.cn/read.php?tid=30427042"
+        "detail": "https://bbs.nga.cn/read.php?tid=30427042",
+        "stage": "光属"
     },
     {
         "副本": "超暗",
@@ -1469,7 +1561,8 @@
         "equipment22": "-",
         "equipment31": "-",
         "equipment32": "-",
-        "detail": "https://ngabbs.com/read.php?tid=21017941"
+        "detail": "https://ngabbs.com/read.php?tid=21017941",
+        "stage": "光属"
     },
     {
         "副本": "超暗",
@@ -1485,7 +1578,8 @@
         "equipment22": "40充",
         "equipment31": "40充",
         "equipment32": "陈旧法杖",
-        "detail": "https://bbs.nga.cn/read.php?tid=30453927"
+        "detail": "https://bbs.nga.cn/read.php?tid=30453927",
+        "stage": "光属"
     },
     {
         "副本": "深层",
@@ -1501,7 +1595,8 @@
         "equipment22": "光深层剑",
         "equipment31": "圣典",
         "equipment32": "圣典",
-        "detail": ""
+        "detail": "",
+        "stage": "光属"
     },
     {
         "副本": "超暗",
@@ -1517,7 +1612,8 @@
         "equipment22": "光芒龙弓",
         "equipment31": "光芒龙弓",
         "equipment32": "陈旧法杖",
-        "detail": "需要搭配盘子，见https://www.bilibili.com/video/BV15m4y1Z7GX"
+        "detail": "需要搭配盘子，见https://www.bilibili.com/video/BV15m4y1Z7GX",
+        "stage": "光属"
     },
     {
         "副本": "超暗",
@@ -1533,7 +1629,8 @@
         "equipment22": "光芒龙弓",
         "equipment31": "光芒龙弓",
         "equipment32": "陈旧法杖",
-        "detail": "需要搭配盘子，见https://www.bilibili.com/video/BV1ZT4y1Q7Z4"
+        "detail": "需要搭配盘子，见https://www.bilibili.com/video/BV1ZT4y1Q7Z4",
+        "stage": "光属"
     },
     {
         "副本": "高级踢罐",
@@ -1549,7 +1646,8 @@
         "equipment22": "愚者之弓",
         "equipment31": "暗双刀",
         "equipment32": "暗双刀",
-        "detail": ""
+        "detail": "",
+        "stage": "暗属"
     },
     {
         "副本": "大蛇",
@@ -1565,7 +1663,8 @@
         "equipment22": "暗深层拳",
         "equipment31": "灼炎龙杖",
         "equipment32": "阳电子炮",
-        "detail": "https://bbs.nga.cn/read.php?tid=30359025"
+        "detail": "https://bbs.nga.cn/read.php?tid=30359025",
+        "stage": "暗属"
     },
     {
         "副本": "深层",
@@ -1581,7 +1680,8 @@
         "equipment22": "暗深层拳",
         "equipment31": "-",
         "equipment32": "40充",
-        "detail": "https://bbs.nga.cn/read.php?tid=29417049"
+        "detail": "https://bbs.nga.cn/read.php?tid=29417049",
+        "stage": "暗属"
     },
     {
         "副本": "素材",
@@ -1597,7 +1697,8 @@
         "equipment22": "-",
         "equipment31": "-",
         "equipment32": "-",
-        "detail": "https://bbs.nga.cn/read.php?tid=29392288"
+        "detail": "https://bbs.nga.cn/read.php?tid=29392288",
+        "stage": "暗属"
     },
     {
         "副本": "光荒龙",
@@ -1613,7 +1714,8 @@
         "equipment22": "暗深层拳",
         "equipment31": "暗双刀",
         "equipment32": "24/7",
-        "detail": "https://www.bilibili.com/video/BV13q4y1b723"
+        "detail": "https://www.bilibili.com/video/BV13q4y1b723",
+        "stage": "暗属"
     },
     {
         "副本": "光荒龙",
@@ -1629,7 +1731,8 @@
         "equipment22": "24/7",
         "equipment31": "24/7",
         "equipment32": "暗双刀",
-        "detail": "https://www.bilibili.com/video/BV13q4y1b723"
+        "detail": "https://www.bilibili.com/video/BV13q4y1b723",
+        "stage": "暗属"
     },
     {
         "副本": "共斗",
@@ -1645,7 +1748,8 @@
         "equipment22": "24/7",
         "equipment31": "24/7",
         "equipment32": "暗双刀",
-        "detail": "https://www.bilibili.com/video/BV13q4y1b723"
+        "detail": "https://www.bilibili.com/video/BV13q4y1b723",
+        "stage": "暗属"
     },
     {
         "副本": "共斗",
@@ -1661,7 +1765,8 @@
         "equipment22": "愚者之弓",
         "equipment31": "24/7",
         "equipment32": "24/7",
-        "detail": "https://www.bilibili.com/video/BV13q4y1b723"
+        "detail": "https://www.bilibili.com/video/BV13q4y1b723",
+        "stage": "暗属"
     },
     {
         "副本": "光荒龙/超光踢罐",
@@ -1677,7 +1782,8 @@
         "equipment22": "40充",
         "equipment31": "天羽羽斩",
         "equipment32": "陈旧法杖",
-        "detail": "https://www.bilibili.com/video/BV1j5411o7kF"
+        "detail": "https://www.bilibili.com/video/BV1j5411o7kF",
+        "stage": "暗属"
     },
     {
         "副本": "光荒龙踢罐",
@@ -1693,7 +1799,8 @@
         "equipment22": "40充",
         "equipment31": "40充",
         "equipment32": "陈旧法杖",
-        "detail": "https://www.bilibili.com/video/BV1j5411o8kF"
+        "detail": "https://www.bilibili.com/video/BV1j5411o8kF",
+        "stage": "暗属"
     },
     {
         "副本": "光荒龙踢罐",
@@ -1709,7 +1816,8 @@
         "equipment22": "40充",
         "equipment31": "40充",
         "equipment32": "陈旧法杖",
-        "detail": "https://www.bilibili.com/video/BV1j5411o9kF"
+        "detail": "https://www.bilibili.com/video/BV1j5411o9kF",
+        "stage": "暗属"
     },
     {
         "副本": "光荒龙",
@@ -1725,6 +1833,7 @@
         "equipment22": "暗深层拳",
         "equipment31": "灼炎龙杖",
         "equipment32": "阳电子炮",
-        "detail": "https://www.bilibili.com/video/BV15m4y1Z7GX"
+        "detail": "https://www.bilibili.com/video/BV15m4y1Z7GX",
+        "stage": "暗属"
     }
 ]
