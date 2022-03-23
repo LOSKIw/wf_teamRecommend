@@ -1,4 +1,8 @@
 body{
     margin:0 auto;
     text-align: center;
+    background-image:url('../Data/IMG/bg.png');
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
 }
