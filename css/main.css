@@ -6,3 +6,7 @@ body{
     background-repeat:no-repeat;
     background-attachment:fixed;
 }
+
+#viewCount{
+    background-color: rgba(0,0,100,0.5);
+}

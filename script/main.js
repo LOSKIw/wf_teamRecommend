@@ -151,7 +151,7 @@ function submit(){
             acceptTeam[count].push(json[i]);
         }
         // 显示（暴力字符串嗯加XD
-        let inText = '<table align="center"><tr><td>副本</td><td>队长</td><td>sub1</td><td>队员</td><td>sub2</td><td>队员</td><td>sub3</td><td>装备1</td><td>珠子1</td><td>装备2</td><td>珠子2</td><td>装备3</td><td>珠子3</td><td>补充</td></tr>';
+        let inText = '<p>白色全齐，黄色差1，绿色差2</p><table align="center"><tr><td>副本</td><td>队长</td><td>sub1</td><td>队员</td><td>sub2</td><td>队员</td><td>sub3</td><td>装备1</td><td>珠子1</td><td>装备2</td><td>珠子2</td><td>装备3</td><td>珠子3</td><td>补充</td></tr>';
         for(let i in color){
             for(let j in acceptTeam[i]){
                 inText += '<tr bgcolor="'+ color[i] + '">';
