@@ -26,6 +26,17 @@ function storageAvailable(type) {
 window.onload = function(){
     let url = "Data/characters.json"/*json文件url，本地的就写本地的位置，如果是服务器的就写服务器的路径*/
     let request = new XMLHttpRequest();
+    let compare = function (obj1, obj2) {
+        var val1 = obj1["星级"];
+        var val2 = obj2["星级"];
+        if (val1 < val2) {
+            return -1;
+        } else if (val1 > val2) {
+            return 1;
+        } else {
+            return 0;
+        }            
+    } 
     let dic = {
         "暗":[],
         "光":[],
@@ -42,6 +53,7 @@ window.onload = function(){
             // 获取
             let json = JSON.parse(request.responseText);
             // 分组
+            json = json.sort(compare);
             for(let i=0;i<json.length;i++){
                 dic[json[i]['属性']].push(json[i]['名称'])
             }
@@ -89,10 +101,10 @@ function rejectAll(){
 
 function contain(list, obj) { 
     var index = list.length; 
-    while (index -- ) { 
-         if (list[index] === obj) { 
-             return true; 
-         } 
+    while (index > 0 && index -- ) { 
+        if (list[index] === obj) { 
+            return true; 
+        } 
     } 
     return false; 
 }
@@ -136,7 +148,7 @@ function submit(){
         // 针对每个team看缺几个人，加入对应box
         for(let i=0;i<json.length;i++){
             // 看是不是对应副本的
-            if(choosenStage != "全部" && choosenStage != json[i]["stage"]){
+            if(choosenStage != "全部" && !contain(json[i]["stage"].split(','),choosenStage)){
                 continue;
             }
             let count = 0;
