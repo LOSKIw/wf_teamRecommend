@@ -83,6 +83,34 @@ window.onload = function(){
             }
         }
     }
+
+    let urlp = "Data/teamList.json";
+    let requestp = new XMLHttpRequest();
+    requestp.open("get", urlp);
+    requestp.send(null);
+    requestp.onload = function () {
+        let json = JSON.parse(requestp.responseText);
+        if(storageAvailable('localStorage')) {
+            if(!localStorage.getItem('teamCountPre')){
+                document.getElementById("teamIncrease").innerText = "没找到缓存欸，清理过或者第一次用?";
+            }
+            else{
+                let curCount = json.length;
+                let preCount = Number(localStorage.getItem('teamCountPre'));
+                let inC = curCount - preCount;
+                if(inC == 0){
+                    document.getElementById("teamIncrease").innerText = "没有新盘子出现，要么没池子没活动，要么LOSKI在摸鱼";
+                }
+                else if(inC < 0){
+                    document.getElementById("teamIncrease").innerText = "盘子数减少了?我记得我到目前为止应该是不会删盘子的啊?OMO";
+                }
+                else{
+                    document.getElementById("teamIncrease").innerText = "增加了" + inC + "个盘子，冲冲冲";
+                }
+            }
+            localStorage.setItem('teamCountPre', json.length);
+        }
+    }
 }
 
 function chooseAll(){
