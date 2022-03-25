@@ -30,9 +30,9 @@ window.onload = function(){
         var val1 = obj1["星级"];
         var val2 = obj2["星级"];
         if (val1 < val2) {
-            return -1;
-        } else if (val1 > val2) {
             return 1;
+        } else if (val1 > val2) {
+            return -1;
         } else {
             return 0;
         }            
