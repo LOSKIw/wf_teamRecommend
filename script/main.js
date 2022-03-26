@@ -105,7 +105,7 @@ window.onload = function(){
                     document.getElementById("teamIncrease").innerText = "盘子数减少了?我记得我到目前为止应该是不会删盘子的啊?OMO";
                 }
                 else{
-                    document.getElementById("teamIncrease").innerText = "增加了" + inC + "个盘子，冲冲冲";
+                    document.getElementById("teamIncrease").innerText = "您上次登录后，增加了" + inC + "个盘子，冲冲冲";
                 }
             }
             localStorage.setItem('teamCountPre', json.length);
