@@ -75,9 +75,15 @@ window.onload = function(){
         }
         if(storageAvailable('localStorage')) {
             if(localStorage.getItem('characters')){
+                
                 let localList = localStorage.getItem('characters').split(",");
                 for(let i in localList){
                     let bt = document.getElementById(localList[i]);
+
+                    if(bt == null){
+                        continue;
+                    }
+                    
                     bt.checked = true;
                 }
             }
@@ -144,7 +150,9 @@ function submit(){
     let bList = document.getElementsByClassName("characterButton");
     for(let i in bList){
         if(bList[i].checked){
-            userList.push(bList[i].id)
+            if(bList[i].id != ""){
+                userList.push(bList[i].id)
+            }
         }
     }
     if(storageAvailable('localStorage')) {
